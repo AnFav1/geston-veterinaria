@@ -111,7 +111,7 @@ CREATE TABLE `dueno` (
 
 LOCK TABLES `dueno` WRITE;
 /*!40000 ALTER TABLE `dueno` DISABLE KEYS */;
-INSERT INTO `dueno` VALUES (1,'Carlos','Ramírez','12345678','Av. Perú 123','987654321','carlos@mail.com',NULL),(2,'Ana','Torres','87654321','Calle Lima 456','912345678','ana@mail.com',NULL),(3,'Angel','Farfan','34567891','Av. Perú 123','999999999','farfan@mail.com',NULL),(4,'Pablo','Chirri','98754321','Calle Lima 456','912345678','pablo@mail.com',NULL),(5,'Brandy','Fernandez','13254687','Calle Lima 458','900223345','brandy@mail.com',NULL),(6,'andres','veliz','74563559','mzf1lt10','948171514','siento7v1@gmail.com','$2b$10$PvuinjaxAWzPsd/PTj77/O5h9A18sm776YBMY4.FSA4.CymXqKoFu'),(8,'afwawf','awfsw','75581','mzf1lt','91751815','awffwf@rimac.com.pe','$2b$10$Tv9hyQevLQawQm9KkeqHkuIAmwivP57QUqRpKB7nrK8wCRgdSuXui'),(9,'angel','farfan','41968148919','mzmcmswm','6515616516','farfanangiz10@autonoma.edu.pe','$2b$10$3Oh5bP/s/5Ep7cBumk8b5.fO61F/kWaeie6kKu/ScGglBORstIAjG'),(10,'awrf','awf','2412','2424awf','2421442','admin@gmail.com','$2b$10$oWG2B.SXxKcVzq/S.cp1.evpS6zACECf8gST04xmZSAp2lpL1c9US');
+INSERT INTO `dueno` VALUES (1,'Carlos','Ramírez','12345678','Av. Perú 123','987654321','carlos@mail.com',NULL),(2,'Ana','Torres','87654321','Calle Lima 456','912345678','ana@mail.com',NULL),(3,'Angel','Farfan','34567891','Av. Perú 123','999999999','farfan@mail.com',NULL),(4,'Pablo','Chirri','98754321','Calle Lima 456','912345678','pablo@mail.com',NULL),(5,'Brandy','Fernandez','13254687','Calle Lima 458','900223345','brandy@mail.com',NULL),(6,'andres','veliz','74563559','mzf1lt10','948171514','siento7v1@gmail.com','$2b$10$PvuinjaxAWzPsd/PTj77/O5h9A18sm776YBMY4.FSA4.CymXqKoFu'),(9,'angel','farfan','41968148919','mzmcmswm','6515616516','farfanangiz10@autonoma.edu.pe','$2b$10$3Oh5bP/s/5Ep7cBumk8b5.fO61F/kWaeie6kKu/ScGglBORstIAjG'),(10,'awrf','awf','2412','2424awf','2421442','admin@gmail.com','$2b$10$oWG2B.SXxKcVzq/S.cp1.evpS6zACECf8gST04xmZSAp2lpL1c9US');
 /*!40000 ALTER TABLE `dueno` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -219,4 +219,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-07-14 17:14:19
+-- Dump completed on 2025-07-14 17:24:45
